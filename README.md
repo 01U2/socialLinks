@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/profile/01U2](https://www.frontendmentor.io/profile/01U2)
-- Live Site URL: [Add live site URL here](https://01u2.github.io/socialLinks/)
+- Solution URL: [FrontendMentor](https://www.frontendmentor.io/profile/01U2)
+- Live Site URL: [Live Site](https://01u2.github.io/socialLinks/)
 
 ## My process
 
