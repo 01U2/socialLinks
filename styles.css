@@ -60,3 +60,8 @@ img {
   padding: 10px;
   font-size: 12px;
 }
+
+.btn:hover{
+  border-radius: 20px;
+  background-color: hsl(0, 0%, 25%);
+}
